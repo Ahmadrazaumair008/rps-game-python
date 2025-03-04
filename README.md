@@ -6,7 +6,7 @@ This is a simple Rock, Paper, Scissors game implemented in Python.
 
 1.  **Clone the repository:**
     ```bash
-    git clone README.md
+    git clone https://github.com/Ahmadrazaumair008/rps-game-python/blob/a4c6c1585c226ef85612eda37c7b52c30968d30f/README.md
     cd rock-paper-scissors
     ```
 2.  **Run the script:**
